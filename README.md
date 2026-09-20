@@ -119,6 +119,4 @@ const shivam = {
 
 ![](https://streak-stats.demolab.com?user=shivamsingh7533&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j)
 
----
-
 ![](https://capsule-render.vercel.app/api?type=waving&color=green&height=100&section=footer)
