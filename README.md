@@ -1,63 +1,124 @@
-<!-- Header Banner -->
-<div style="background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #0d0d1a 100%); min-height: 400px; position: relative; overflow: hidden; margin: -20px -20px 30px; border-radius: 0 0 30px 30px;">
-  <!-- Gradient Background -->
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(ellipse at 30% 20%, rgba(100, 50, 150, 0.15) 0%, transparent 50%), radial-gradient(ellipse at 70% 80%, rgba(150, 50, 200, 0.12) 0%, transparent 50%); pointer-events: none;"></div>
-  
-  <!-- Abstract Waves at Bottom -->
-  <svg style="position: absolute; bottom: 0; left: 0; right: 0; height: 120px; pointer-events: none;">
-    <path d="M0,92 C30,72 60,80 90,92 C150,104 180,112 210,100 L210,120 L0,120 Z" fill="url(wave-gradient)" />
-    <path d="M0,110 C20,90 40,100 60,110 C90,120 120,115 180,120 L210,120 L0,120 Z" fill="#2d1b4e" opacity="0.6" />
-  </svg>
-  
-  <!-- Wave Gradient Definitions -->
-  <svg style="display: none;">
-    <defs>
-      <linearGradient id="wave-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" style="stop-color:#6e48aa;stop-opacity:0.4" />
-        <stop offset="100%" style="stop-color:#a55ee9;stop-opacity:0.4" />
-      </linearGradient>
-    </defs>
-  </svg>
-  
-  <!-- Name Section -->
-  <div style="position: relative; top: 50%; transform: translateY(-50%); text-align: center; padding: 0 30px;">
-    <h1 style="font-family: 'Inter', 'Segoe UI', Tahoma, sans-serif; font-size: 3.5rem; font-weight: 800; letter-spacing: -0.02em; background: linear-gradient(135deg, #e6e8f2 0%, #bfcce3 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 0; line-height: 1.1;">
-      Suraj Bhan Pratap Singh
-    </h1>
-    <h2 style="font-family: 'Inter', 'Segoe UI', Tahoma, sans-serif; font-size: 1.4rem; font-weight: 600; margin: 15px 0 0; letter-spacing: 0.01em; color: #a2d2ff; text-shadow: 0 0 20px rgba(162, 210, 255, 0.3);">
-      Full Stack Developer | AI Engineer
-    </h2>
-  </div>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=1600&lines=Hey+there!+I'm+Shivam+Kumar+%F0%9F%91%8B+%E2%80%94+building+real+products%2C+not+tutorials+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Main Content Section -->
-<div style="background: #0d0d1a; padding: 40px 30px; margin-top: -40px;">
-  <!-- Section Heading -->
-  <h1 style="text-align: center; font-family: 'Inter', 'Segoe UI', Tahoma, sans-serif; font-size: 2.2rem; font-weight: 700; letter-spacing: -0.01em; color: #f0f4f8; margin-bottom: 2px;">Full Stack Developer · AI Engineer</h1>
-  
-  <!-- Thin Divider -->
-  <div style="width: 60%; max-width: 400px; margin: 20px auto 30px; height: 1px; background: linear-gradient(90deg, transparent, #3a3f5a, transparent);"></div>
-  
-  <!-- About Me Area -->
-  <div style="max-width: 800px; margin: 0 auto; background: #1a1a2e; border-radius: 12px; padding: 30px; border: 1px solid #2a2d3e;">
-    <p style="color: #c8d6e5; line-height: 1.8; font-size: 1rem;">
-      Welcome to my GitHub profile! I'm a Full Stack Developer and AI Engineer passionate about building scalable web applications and integrating intelligent AI features. I specialize in modern web technologies, cloud infrastructure, and machine learning models.
-    </p>
-  </div>
-</div>
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivam%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js%20%7C%20AI%20Integration%20Engineer%20%7C%20CS%20%40%20Jagannath%20University&descAlignY=55&descSize=16)
 
-<!-- Stats Cards Row -->
-<div style="max-width: 1000px; margin: 40px auto 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;;">
-  <div style="background: #1a1a2e; border-radius: 10px; padding: 25px; text-align: center; border: 1px solid #2a2d3e; transition: transform 0.2s; cursor: default;">
-    <div style="font-size: 2.5rem; font-weight: 700; color: #a2d2ff; margin-bottom: 5px;">⭐</div>
-    <div style="color: #8892b0;">GitHub Stats</div>
-  </div>
-  <div style="background: #1a1a2e; border-radius: 10px; padding: 25px; text-align: center; border: 1px solid #2a2d3e; transition: transform 0.2s; cursor: default;">
-    <div style="font-size: 2.5rem; font-weight: 700; color: #a2d2ff; margin-bottom: 5px;">📊</div>
-    <div style="color: #8892b0;">Repositories</div>
-  </div>
-  <div style="background: #1a1a2e; border-radius: 10px; padding: 25px; text-align: center; border: 1px solid #2a2d3e; transition: transform 0.2s; cursor: default;">
-    <div style="font-size: 2.5rem; font-weight: 700; color: #a2d2ff; margin-bottom: 5px;">🔥</div>
-    <div style="color: #8892b0;">Stars</div>
-  </div>
-</div>
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shivamsingh7533)](https://github.com/shivamsingh7533)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-b61784293/) [![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamsingh7533) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shivam-kr.vercel.app) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sk9529973@gmail.com)
+
+---
+
+## 🧑‍ About Me
+
+[](#-about-me)
+
+```js
+const shivam = {
+  role: "Full-Stack Developer (MERN + Next.js) | AI Integration Engineer",
+  origin: "Nawada, Bihar, India",
+  current: "Jaipur, Rajasthan, India",
+  university: "Jagannath University, Jaipur (B.Tech CSE, 2023–2027)",
+  internships: [
+    "Full-Stack Development Intern",
+    "4-Week Internship Program",
+  ],
+  shipped: ["BaseMind", "OasisSpace", "DeepDive-AI", "my-portfolio"],
+  stack: ["React", "Next.js", "TypeScript", "Node.js", "Python/FastAPI", "MongoDB", "Groq", "Gemini"],
+  currentFocus: "AI Integration · RAG Pipelines · Agent Architecture",
+  funFact: "I ship real AI features, not just demos ⚡",
+};
+```
+
+---
+
+## 🚀 Featured Projects
+
+[](#-featured-projects)
+
+---
+
+### 🧠 [BaseMind](https://base-mind.vercel.app/) — Autonomous Multi-Channel AI Customer Support & RAG Platform
+
+[](#-basemind--autonomous-multi-channel-ai-customer-support--rag-platform)
+
+> Production-grade **multi-tenant AI SaaS** — hallucination-free RAG, multi-channel bots, human-in-the-loop handovers
+
+-   🧠 Grounded **Google Gemini 2.5** RAG engine — PDF/TXT/CSV/MD ingestion + async web crawler
+-   ⚡ **pgvector** 768-dim cosine search with real-time source citation links
+-   🎧 **Human-in-the-Loop** live takeover console — bot pause → operator claim → handback in one click
+-   💬 Slack & Discord bots, embeddable chat widget, Lead CSR on export, Clerk JWT auth, Backblaze B2 storage
+
+[![Next.js](https://img.shields.io/badge/Next.js_16-black?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![React](https://img.shields.io/badge/React_19-20232a?style=flat&logo=react&logoColor=61DAFB)](https://react.dev) [![FastAPI](https://img.shields.io/badge/FastAPI_Python_3.12-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL_pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google.dev) [![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white)](https://clerk.com) [![Backblaze](https://img.shields.io/badge/Backblaze_B2-E31E52?style=flat)](https://www.backblaze.com/b2/)
+
+[![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/shivamsingh7533/BaseMind) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://base-mind.vercel.app/)
+
+---
+
+### 🏡 [OasisSpace](https://oasis-space.vercel.app/) — Premium Real Estate Platform
+
+[](#-oasisspace--premium-real-estate-platform)
+
+> Full-stack real-estate marketplace with **AI assistant, payments, and role-based access control**
+
+-   🤖 **Jarvis AI assistant** (Groq LLaMA 3.3) + generative SEO descriptions via Google Gemini
+-   💳 **Razorpay** payment gateway with EMI/Mortgage calculator + transaction history
+-   🔐 OTP verification (Brevo), Google OAuth (Firebase), JWT sessions, secure cookies
+-   👥 Role-based access (User / Seller / Approved Seller / Admin) + admin analytics dashboard + **PWA**
+
+[![React](https://img.shields.io/badge/React_19-20232a?style=flat&logo=react&logoColor=61DAFB)](https://react.dev) [![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev) [![Tailwind](https://img.shields.io/badge/TailwindCSS_4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Express](https://img.shields.io/badge/Node.js_Express-339933?style=flat&logo=nodedotjs&logoColor=white)](https://expressjs.com) [![MongoDB](https://img.shields.io/badge/MongoDB_Mongoose-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Groq](https://img.shields.io/badge/Groq_Llama_3.3-F55036?style=flat)](https://groq.com) [![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)](https://razorpay.com)
+
+[![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/shivamsingh7533/oasis-space) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://oasis-space.vercel.app/)
+
+---
+
+### 🔍 [DeepDive-AI](https://github.com/shivamsingh7533/DeepDive-AI) — AI Research & Deep Dive Tooling
+
+[](#-deepdive-ai--ai-research--deep-dive-tooling)
+
+> Open-source experimentation in AI-powered research and analysis workflows
+
+[![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/shivamsingh7533/DeepDive-AI)
+
+---
+
+### 👨‍💻 [my-portfolio](https://github.com/shivamsingh7533/my-portfolio) — Personal Portfolio & Insights Blog
+
+[](#-my-portfolio--personal-portfolio--insights-blog)
+
+> Engineered for SEO · AEO · GEO · LLMO · AISEO · EEAT — case studies & engineering insights
+
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Tailwind](https://img.shields.io/badge/TailwindCSS_4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
+[![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/shivamsingh7533/my-portfolio) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://shivam-kr.vercel.app/)
+
+---
+
+## 💻 Tech Stack
+
+[](#-tech-stack)
+
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev) [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org) [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+
+[![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=for-the-badge)](https://groq.com) [![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev) [![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.com) [![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.com) [![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com) [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com) [![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps)
+
+---
+
+## 📊 GitHub Stats
+
+[](#-github-stats)
+
+![](https://github-stats-alpha.vercel.app/api?username=shivamsingh7533)
+
+![](https://streak-stats.demolab.com?user=shivamsingh7533&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j)
+
+---
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
