@@ -1,209 +1,124 @@
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=1600&lines=Hey+there!+I'm+Shivam+Kumar+%F0%9F%91%8B+%E2%80%94+building+real+products%2C+not+tutorials+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivam%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js%20%7C%20AI%20Integration%20Engineer%20%7C%20CS%20%40%20Jagannath%20University&descAlignY=55&descSize=16)
 
-# **Shivam Kumar**
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=500&color=1E90FF&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;MERN+%26+NEXT.js+Expert;AI+Integration+Engineer;LLM+Pipelines+%26+RAG+Builder)
-
-I build **fast, secure, production-grade web platforms** and ship **real LLM features** — AI chatbots, generative tools, and intelligent product experiences.
-
-📍 Jaipur, Rajasthan, India &nbsp;·&nbsp; 🎓 B.Tech (CSE), Jagannath University
-
-![Profile Views](https://komarev.com/ghpvc/?username=shivamsingh7533&label=Profile%20Views&color=1E90FF&style=flat)
-
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://shivam-kr.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-b61784293/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamsingh7533)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sk9529973@gmail.com)
-
-</div>
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shivamsingh7533)](https://github.com/shivamsingh7533)
 
 ---
 
-## 🌟 About Me
-
-<table align="center">
-<tr>
-<td>
-
-🧑‍💻 **Full-Stack Developer** — build end-to-end products from database schema to production UI.
-
-🤖 **AI Integration Engineer** — ship LLM-powered chatbots, generative tools & RAG pipelines on production systems.
-
-</td>
-<td>
-
-🌱 **Currently exploring:** LLM integration, RAG pipelines & agent architecture.
-
-💼 **Open to:** Full-Stack Developer & AI Integration roles — remote, hybrid, on-site.
-
-🏆 **2 verified** internship certificates & **2 production-grade** projects live on Vercel.
-
-</td>
-</tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-b61784293/) [![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamsingh7533) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shivam-kr.vercel.app) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sk9529973@gmail.com)
 
 ---
 
-## 🚀 Flagship Projects
+## 🧑‍ About Me
 
-### 🧠 [BaseMind](https://github.com/shivamsingh7533/BaseMind) — Autonomous AI Customer Support & RAG Platform
+[](#-about-me)
 
-> Production-grade **multi-tenant AI SaaS** bridging hallucination-free generative AI with human support teams.
-
-| Capability | Detail |
-|-----------|--------|
-| 🧠 RAG Engine | Google Gemini 2.5 with PDF/TXT/CSV/MD ingestion + async web crawler |
-| ⚡ Vector Search | pgvector 768-dim cosine similarity with real-time source citations |
-| 🎧 Handover System | Human-in-the-Loop takeover — bot pause → operator claim → handback |
-| 💬 Channels | Embeddable chat widget, Slack & Discord bots |
-| 🏷️ Extras | Lead CRM with CSV export, Clerk JWT auth, Backblaze B2 storage |
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://base-mind.vercel.app/)
-[![Repo](https://img.shields.io/badge/💻_Source_Code-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamsingh7533/BaseMind)
-
-<details>
-<summary><b>🛠️ BaseMind Tech Stack</b></summary>
-
-![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-3.12-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-2.5-4285F4?style=flat-square&logo=google&logoColor=white)
-![Backblaze](https://img.shields.io/badge/Backblaze_B2-Cloud-E31E52?style=flat-square)
-![Render](https://img.shields.io/badge/Render-Deployed-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</details>
+```js
+const shivam = {
+  role: "Full-Stack Developer (MERN + Next.js) | AI Integration Engineer",
+  origin: "Nawada, Bihar, India",
+  current: "Jaipur, Rajasthan, India",
+  university: "Jagannath University, Jaipur (B.Tech CSE, 2023–2027)",
+  internships: [
+    "Full-Stack Development Intern",
+    "4-Week Internship Program",
+  ],
+  shipped: ["BaseMind", "OasisSpace", "DeepDive-AI", "my-portfolio"],
+  stack: ["React", "Next.js", "TypeScript", "Node.js", "Python/FastAPI", "MongoDB", "Groq", "Gemini"],
+  currentFocus: "AI Integration · RAG Pipelines · Agent Architecture",
+  funFact: "I ship real AI features, not just demos ⚡",
+};
+```
 
 ---
 
-### 🏡 [OasisSpace](https://github.com/shivamsingh7533/oasis-space) — Premium Real Estate Platform
+## 🚀 Featured Projects
 
-> Full-stack real-estate marketplace with AI, payments, and role-based access control.
-
-| Capability | Detail |
-|-----------|--------|
-| 🤖 AI Assistant | "Jarvis" — real-time property assistant (Groq LLaMA 3.3) |
-| ✍️ AI Descriptions | SEO-friendly property descriptions via Google Gemini |
-| 💳 Payments | Razorpay gateway with EMI/Mortgage calculator |
-| 🔐 Auth | OTP (Brevo), Google OAuth (Firebase), JWT sessions |
-| 📱 Extras | PWA, RBAC (user/seller/admin), admin analytics dashboard |
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://oasis-space.vercel.app/)
-[![Repo](https://img.shields.io/badge/💻_Source_Code-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamsingh7533/oasis-space)
-
-<details>
-<summary><b>🛠️ OasisSpace Tech Stack</b></summary>
-
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-F55036?style=flat-square&logo=groq&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-Payments-02042B?style=flat-square&logo=razorpay&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-OAuth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-Storage-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</details>
+[](#-featured-projects)
 
 ---
 
-### 🔍 [DeepDive-AI](https://github.com/shivamsingh7533/DeepDive-AI) &nbsp;·&nbsp; [my-portfolio](https://github.com/shivamsingh7533/my-portfolio)
+### 🧠 [BaseMind](https://base-mind.vercel.app/) — Autonomous Multi-Channel AI Customer Support & RAG Platform
 
-More open-source work and my personal portfolio — all public on GitHub.
+[](#-basemind--autonomous-multi-channel-ai-customer-support--rag-platform)
 
----
+> Production-grade **multi-tenant AI SaaS** — hallucination-free RAG, multi-channel bots, human-in-the-loop handovers
 
-## 🛠️ Skills & Technologies
+-   🧠 Grounded **Google Gemini 2.5** RAG engine — PDF/TXT/CSV/MD ingestion + async web crawler
+-   ⚡ **pgvector** 768-dim cosine search with real-time source citation links
+-   🎧 **Human-in-the-Loop** live takeover console — bot pause → operator claim → handback in one click
+-   💬 Slack & Discord bots, embeddable chat widget, Lead CSR on export, Clerk JWT auth, Backblaze B2 storage
 
-<div align="center">
+[![Next.js](https://img.shields.io/badge/Next.js_16-black?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![React](https://img.shields.io/badge/React_19-20232a?style=flat&logo=react&logoColor=61DAFB)](https://react.dev) [![FastAPI](https://img.shields.io/badge/FastAPI_Python_3.12-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL_pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google.dev) [![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white)](https://clerk.com) [![Backblaze](https://img.shields.io/badge/Backblaze_B2-E31E52?style=flat)](https://www.backblaze.com/b2/)
 
-**🧩 Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**⚙️ Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**🤖 AI & LLMs**
-
-![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6F42C1?style=for-the-badge)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-1E90FF?style=for-the-badge)
-![Agent Architecture](https://img.shields.io/badge/Agent_Architecture-20B2AA?style=for-the-badge)
-
-**🔐 Tools, Security & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_%26_OAuth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-
-</div>
+[![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/shivamsingh7533/BaseMind) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://base-mind.vercel.app/)
 
 ---
 
-## 📊 GitHub Analytics
+### 🏡 [OasisSpace](https://oasis-space.vercel.app/) — Premium Real Estate Platform
 
-<div align="center">
+[](#-oasisspace--premium-real-estate-platform)
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamsingh7533&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github)](https://github.com/shivamsingh7533)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamsingh7533&theme=tokyonight&hide_border=true)](https://github.com/shivamsingh7533)
+> Full-stack real-estate marketplace with **AI assistant, payments, and role-based access control**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsingh7533&layout=donut&theme=tokyonight&hide_border=true&card_width=440)](https://github.com/shivamsingh7533)
+-   🤖 **Jarvis AI assistant** (Groq LLaMA 3.3) + generative SEO descriptions via Google Gemini
+-   💳 **Razorpay** payment gateway with EMI/Mortgage calculator + transaction history
+-   🔐 OTP verification (Brevo), Google OAuth (Firebase), JWT sessions, secure cookies
+-   👥 Role-based access (User / Seller / Approved Seller / Admin) + admin analytics dashboard + **PWA**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamsingh7533&theme=tokyonight&hide_border=true&area=true)
+[![React](https://img.shields.io/badge/React_19-20232a?style=flat&logo=react&logoColor=61DAFB)](https://react.dev) [![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev) [![Tailwind](https://img.shields.io/badge/TailwindCSS_4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Express](https://img.shields.io/badge/Node.js_Express-339933?style=flat&logo=nodedotjs&logoColor=white)](https://expressjs.com) [![MongoDB](https://img.shields.io/badge/MongoDB_Mongoose-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Groq](https://img.shields.io/badge/Groq_Llama_3.3-F55036?style=flat)](https://groq.com) [![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)](https://razorpay.com)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shivamsingh7533&theme=tokyonight&no-frame=true&margin-w=8&column=4)](https://github.com/shivamsingh7533)
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://shivam-kr.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-b61784293/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamsingh7533)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sk9529973@gmail.com)
-
-</div>
+[![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/shivamsingh7533/oasis-space) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://oasis-space.vercel.app/)
 
 ---
 
-<div align="center">
+### 🔍 [DeepDive-AI](https://github.com/shivamsingh7533/DeepDive-AI) — AI Research & Deep Dive Tooling
 
-⭐️ **Always open to building intelligent products & collaborating on LLM/AI projects**
+[](#-deepdive-ai--ai-research--deep-dive-tooling)
 
-**Made with ❤️ in India 🇮🇳 · © 2026 Shivam Kumar**
+> Open-source experimentation in AI-powered research and analysis workflows
 
-</div>
+[![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/shivamsingh7533/DeepDive-AI)
+
+---
+
+### 👨‍💻 [my-portfolio](https://github.com/shivamsingh7533/my-portfolio) — Personal Portfolio & Insights Blog
+
+[](#-my-portfolio--personal-portfolio--insights-blog)
+
+> Engineered for SEO · AEO · GEO · LLMO · AISEO · EEAT — case studies & engineering insights
+
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Tailwind](https://img.shields.io/badge/TailwindCSS_4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
+[![Source](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github)](https://github.com/shivamsingh7533/my-portfolio) [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://shivam-kr.vercel.app/)
+
+---
+
+## 💻 Tech Stack
+
+[](#-tech-stack)
+
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev) [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org) [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+
+[![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=for-the-badge)](https://groq.com) [![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev) [![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.com) [![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.com) [![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com) [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com) [![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps)
+
+---
+
+## 📊 GitHub Stats
+
+[](#-github-stats)
+
+![](https://github-stats-alpha.vercel.app/api?username=shivamsingh7533)
+
+![](https://streak-stats.demolab.com?user=shivamsingh7533&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j)
+
+---
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
