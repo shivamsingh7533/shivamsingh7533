@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=1600&lines=Hey+there!+I'm+Shivam+Kumar+%F0%9F%91%8B+%E2%80%94+building+real+products%2C+not+tutorials+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivam%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js%20%7C%20AI%20Integration%20Engineer%20%7C%20CS%20%40%20Jagannath%20University&descAlignY=55&descSize=16)
+![](https://capsule-render.vercel.app/api?type=waving&color=green&height=180&section=header&text=Shivam%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js%20%7C%20AI%20Integration%20Engineer%20%7C%20CS%20%40%20Jagannath%20University&descAlignY=55&descSize=16)
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shivamsingh7533)](https://github.com/shivamsingh7533)
 
@@ -121,4 +121,4 @@ const shivam = {
 
 ---
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=green&height=100&section=footer)
